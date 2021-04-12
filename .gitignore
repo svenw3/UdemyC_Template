@@ -3,6 +3,7 @@
 # Unignore all with extensions
 !*.*
 !Makefile
+c_cpp_properties.json
 !*.txt
 TODO.txt
 # Unignore all dirs
