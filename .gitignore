@@ -2,13 +2,22 @@
 *
 # Unignore all with extensions
 !*.*
-!Makefile
-c_cpp_properties.json
 !*.txt
 TODO.txt
+valgrind-out.txt
+**/*/.vscode/
+launch.json
 # Unignore all dirs
 !*/
 *.pdf
+settings.json
+c_cpp_properties.json
+launch.json
+!Makefile
+build/
+Debug/
+Release/
+!LICENSE
 
 .vscode/c_cpp_properties.json
 */c_cpp_properties.json
