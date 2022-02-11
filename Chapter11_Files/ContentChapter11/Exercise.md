@@ -13,8 +13,3 @@ Willkommen bei der nächsten Programmier-Übung in diesem Kurs.
 
 - Gehe davon aus, dass eine maximale Länge eines Satzes 100 Zeichen beträgt
 - Gehe davon aus, dass maximal 10 Sätze in dem Text vorliegen
-
-## Hinweise
-
-Der Udemy Compiler überprüft nur, ob ihr eine Lösung abgegeben habt.  
-Meine Musterlösung werde ich im folgenden Video vorstellen.
